@@ -1,0 +1,19 @@
+{
+	"name": "agent-skills",
+	"version": "1.0.0",
+	"description": "Random useful AI agent skills",
+	"bugs": {
+		"url": "https://github.com/n0th1ng-else/agent-skills/issues"
+	},
+	"license": "MIT",
+	"author": "Sergey Nikitin <srg.post@gmail.com>",
+	"repository": {
+		"url": "https://github.com/n0th1ng-else/agent-skills"
+	},
+	"scripts": {
+		"format": "oxfmt ."
+	},
+	"devDependencies": {
+		"oxfmt": "0.64.0"
+	}
+}
